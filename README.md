@@ -10,10 +10,5 @@ Passionate about open source applications
 
 I aspire to be a _design-engineer_ eveyrday: ideating, defining, designing, developing, and marketing products from scratch, all the way to the user’s hands for them to enjoy
 
-I’m currently working on a X-feed redesign project
+I’m currently working on a X-feed-redesign project and many more
 {more products/projects comming soon}
-
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharv-una-866b5b322/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/atharvuna)
