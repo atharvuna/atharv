@@ -6,7 +6,7 @@ Designing products across platforms, high-level prototyping, advanced research, 
 
 Passionate about open source applications
 
-### happening 
+### ✨ happening 
 
 I aspire to be a _design-engineer_ eveyrday: ideating, defining, designing, developing, and marketing products from scratch, all the way to the user’s hands for them to enjoy
 
