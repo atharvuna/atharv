@@ -3,7 +3,8 @@
 
 ### I'm Proficient with: 
 👉🏼 Designing products across platforms, high-level prototyping, advanced research, feedback-systems and *linux.
-  Passionate about open source applications and making design overall contributions 
+
+   Passionate about open source applications and making design overall contributions 
 
 
 ### ✨ I aspire to be a _design-engineer_ everyday: ideating, defining, designing, developing, and marketing products from scratch, all the way to the user’s hands for them to enjoy
