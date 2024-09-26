@@ -4,14 +4,14 @@
 ### I'm Proficient with: 
 Designing products across platforms, high-level prototyping, advanced research, feedback-systems and linux**.
 
-Passionate about open source applications // I use **Arch** btw
+Passionate about open source applications
 
-### facts 
+### happening 
 
 I aspire to be a _design-engineer_ eveyrday: ideating, defining, designing, developing, and marketing products from scratch, all the way to the user’s hands for them to enjoy
 
+I’m currently working on a X-feed redesign project
 {more products/projects comming soon}
-
 
 
 ## 🔗 Links
