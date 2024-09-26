@@ -1,4 +1,4 @@
-# I'm Atharva Patil!
+# I'm Atharv!
 ### I’m a product designer with a background in computer science, driven by a passion for building and shipping products. Orchestrating user experience and interaction to the absolute best.
 
 ### I'm Proficient with: 
